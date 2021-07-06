@@ -104,6 +104,12 @@ nav ul li a:hover{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-display: inherit;
+    
+}
+.recepi-para{
+    text-align: center;
+    font-size: 18px;
+    
 }
 .btn-style2{
     width:50px;
@@ -123,7 +129,8 @@ nav ul li a:hover{
    
 }
 .content-style{  
-    margin: 60PX;
+    width: 30%;
+    margin: 3%;
     padding:2%;
     box-shadow: 10px 10px 5px rgb(56, 55, 54);
     border-radius: 20px;
@@ -132,12 +139,35 @@ nav ul li a:hover{
 /**/
 .content-area-style{
 display: flex;
-box-shadow: 20px 20px 30px rgb(56, 55, 54);
-margin: 50px;
+box-shadow: 10px 10px 30px rgb(56, 55, 54);
+margin: 70px;
+padding-left: 70px;
+height: 300px;
 
 }
 .content-style2{
     width: 20%;
     margin: 10%;
+
    
+}
+.content-style3{
+    font-size: 28px bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*footer area style*/
+
+.footer-area{
+background: rgb(1, 1, 20);
+color: wheat;
+height: 250px;
+}
+.foter-hedding{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+.foter-p{
+    text-align: center ;
 }
