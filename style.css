@@ -1,0 +1,71 @@
+.header{
+    width: 99%;
+    height: 50px;
+    background: rgb(235, 152, 98);
+    margin-top: 0%;
+    padding: 5px;
+    margin:0%;
+}
+nav ul{
+    text-decoration: none;
+}
+nav ul li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+}
+nav ul li a:hover{
+    background: rgb(196, 163, 120);
+   
+}
+/*nav stop*/
+
+.food-network{
+    display: flex;
+    width: 100%;
+    height: 500px;
+
+}
+.food-content{
+    width: 45%;
+    margin: 2%;
+
+}
+.hedding-style{
+    font-size: 40px;
+    font-family: cursive;
+    padding-top: 35%;
+    padding-left: 50px;
+}
+.para-style{
+    padding-left: 50px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.span-style{
+    color: lightsalmon;
+}
+.food-img{
+    width: 45%;
+    margin: 2%;
+}
+.food-img img{
+    width: 90%;
+}
+.btn-style{
+    width:50px;
+    margin-left: 50px;
+    padding: 10px;
+    margin-top: 100px;
+    border-radius: 20px;
+    font-size: 25px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(224, 86, 86) , #ffc);
+}
+
