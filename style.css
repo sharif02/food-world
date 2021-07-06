@@ -44,7 +44,7 @@ nav ul li a:hover{
     padding-left: 50px;
 }
 .para-style{
-    padding-left: 50px;
+    padding-left: 10px;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -99,7 +99,7 @@ nav ul li a:hover{
     font-family: cursive;
     padding-top: 10%;
     padding-left: 10px;}
-.para-style{
+.para-style1{
     padding-left: 10px;
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -113,7 +113,8 @@ nav ul li a:hover{
 }
 .btn-style2{
     width:50px;
-    margin-left: 50px;
+    margin-left: 10px;
+    margin-bottom: 100px;
     padding: 10px;
     border-radius: 20px;
     font-size: 25px;
